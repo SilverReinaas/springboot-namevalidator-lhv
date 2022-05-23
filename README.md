@@ -14,3 +14,6 @@ Then blacklist names are iterated and also divided to parts. Input name parts an
 
 ## Controllers
 Controllers are communicating with Service and Logic classes.
+
+## Demo
+Demo video is in root folder.
